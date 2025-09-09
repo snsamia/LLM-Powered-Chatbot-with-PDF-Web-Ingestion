@@ -1,6 +1,13 @@
 # 🤖 LLM-Powered Chatbot with PDF & Web Ingestion
 
 A chatbot application built with **LangChain**, **LLaMA 2 (via Ollama)**, **HuggingFace embeddings**, and **FAISS**.  
+
+![Chatbot Demo](https://github.com/snsamia/LLM-Powered-Chatbot-with-PDF-Web-Ingestion/blob/main/photo.png)
+
+The app allows users to upload PDFs or enter website URLs, then ask natural language questions that are answered using a **retrieval-augmented generation (RAG)** pipeline.  
+
+
+A chatbot application built with **LangChain**, **LLaMA 2 (via Ollama)**, **HuggingFace embeddings**, and **FAISS**.  
 The app allows users to upload PDFs or enter website URLs, then ask natural language questions that are answered using a **retrieval-augmented generation (RAG)** pipeline.  
 
 Built with **Streamlit** for an interactive UI.
