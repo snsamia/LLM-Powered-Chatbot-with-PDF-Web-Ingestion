@@ -1,0 +1,21 @@
+You: hi
+You: hi
+You: hi
+Bot: 
+Hello there! *smiling* It's nice to meet you! Is there something I can help you with or would you like to chat?
+
+You: hi
+Bot: Hello! *smiles* It's nice to meet you! Is there something I can help you with or would you like to chat?
+
+You: what said ithe url
+Bot: The URL provided in the context is: <https://www.dw.com/en/nepal-pm-resigns-amid-protests-and-social-media-ban/a-56483749>
+
+You: what is the capital of nepal
+Bot: I don't know the answer to your question. According to the provided context, the capital of Nepal is Kathmandu. However, I am not able to confirm this information as it is not explicitly stated in the provided text.
+
+You: what is the capital of nepal
+Bot: I don't know the answer to your question. The information provided in the context does not mention the capital of Nepal.
+
+You: who is alice
+Bot: Based on the provided context, Alice is the protagonist of the story.
+
