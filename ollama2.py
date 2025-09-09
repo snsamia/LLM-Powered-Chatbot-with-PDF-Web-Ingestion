@@ -17,7 +17,7 @@ load_dotenv()
 # LangChain API Key Setup
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 #os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY", "your_default_key")
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "lsv2_pt_*************************_3fc8cb9cc7"
 
 # LangChain Components
 llm = Ollama(model="llama2")
@@ -116,3 +116,4 @@ if st.session_state.chat_history:
         st.markdown(f"**You:** {q}")
         st.markdown(f"**Bot:** {a}")
         st.markdown("---")
+
