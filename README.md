@@ -1,4 +1,4 @@
-# 🤖 A chatbot application built with **LangChain**, **LLaMA 2 (via Ollama)**, **HuggingFace embeddings**, and **FAISS**.
+
 
 ![Chatbot Demo](https://github.com/snsamia/LLM-Powered-Chatbot-with-PDF-Web-Ingestion/blob/main/photo.png)
 
